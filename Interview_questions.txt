@@ -1,0 +1,17 @@
+1) Types of indexes in oracle
+2) does an index gets created automatically when foreign key is created.
+3) what is global inder and local index
+4) how to create Partitioned tables in oracle
+5) After join,For example, the default value for an Integer is zero, the default
+value for a Varchar is an empty string (“”), and the default value for a Char is a string of
+padchar characters equal to the length of the Char column.
+
+6) nested loop inside query plan
+7) Isolation levels in oracle(like uncomitted read in db2)
+8) starge variables purpose and performance
+9) funnel types
+10) how to setup ODBC in datastage
+11) how to unlock a job
+12) dsjob commmands
+13) DBA views in oracle
+14) default datatype after aggregator 
